@@ -4,8 +4,7 @@ Learn and practice Cache in App memory with Golang through hands-on exercises.
 
 ## 📌  Overview
 
-This workshop demonstrates how to implement **In-App Memory Caching** in **Golang** to optimize API performance and reduce database load.  
-It covers different caching techniques using.
+This workshop demonstrates how to implement **In-App Memory Caching** in **Golang** to optimize API performance and reduce database load, It covers different caching techniques using.
 
 - **query sql**
 - **sync.Map**
