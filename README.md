@@ -1,4 +1,4 @@
-# 🚀 Workshop - Cache in App Memory Repository
+# 🚀 Workshop - Cache in App Memory
 
 Learn and practice Cache in App memory with Golang through hands-on exercises.
 
@@ -47,7 +47,7 @@ go test -bench=. -benchmem
 | **sync.Map Cache**      | 33,790 ns (~0.0338 ms) | 3,459 B       | 42 allocs               |
 | **atomic.Value Cache**  | 33,755 ns (~0.0337 ms) | 3,467 B       | 42 allocs               |
 
-#### ✅ Cache is ~15.9x faster than querying the database! 🚀
+ ✅ Cache is ~15.9x faster than querying the database! 🚀
 
 ---
 
